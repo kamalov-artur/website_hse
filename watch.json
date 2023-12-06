@@ -1,0 +1,90 @@
+[
+    {
+      "id": "1",
+      "title": "Kawasaki vintage",
+      "vendor_code": "111",
+      "price": 2000000,
+      "img": "монтана.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Honda W218HD",
+      "vendor_code": "222",
+
+      "price": 150000,
+      "img": "касио2.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Honda AQ-230A",
+      "vendor_code": "333",
+      "price": 300000,
+      "img": "касио4.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Honda ICE E4L",
+      "vendor_code": "444",
+      "price": 6000000,
+      "img": "касио5.webp"
+    },
+    {
+      "id": "5",
+      "title": "Honda EDICE EFB-700D",
+      "vendor_code": "555",
+      "price": 500000,
+      "img": "касио6.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Honda D327R",
+      "vendor_code": "666",
+      "price": 130000,
+      "img": "касио3.jpg"
+    },
+  
+    {
+      "id": "7",
+      "title": "Honda 27R",
+      "vendor_code": "777",
+      "price": 1390000,
+      "img": "касио4.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Honda D3",
+      "vendor_code": "888",
+      "price": 7000000,
+      "img": "главная.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Honda D3R",
+      "vendor_code": "999",
+      "price": 1360000,
+      "img": "касио5.webp"
+    },
+    {
+      "id": "10",
+      "title": "BMW DR",
+      "vendor_code": "101010",
+      "price": 138000,
+      "img": "главная.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Honda D27R",
+      "vendor_code": "101010",
+      "price": 138000,
+      "img": "монтана.jpg"
+    },
+    {
+      "id": "12",
+      "title": "AV D7R",
+      "vendor_code": "101010",
+      "price": 138000,
+      "img": "касио6.jpg"
+    }
+
+
+]
